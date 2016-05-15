@@ -176,7 +176,7 @@ var executeSamaritan = function(phrase)
                 $State.text.html("");
                 // Animate trinagle back in
                 $State.triangle.finish().animate({
-                    'font-size': '2em',
+                    'font-size': '2.35em',
                     'opacity': '1'
                 }, {
                     'duration': $State.wordAnim,
