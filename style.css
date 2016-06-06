@@ -74,12 +74,12 @@ p {
 	}
 	body, html {
 		background-color: rgba(0, 0, 0, 0.56);
-		background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%, rgba(127,127,127,1) 150%);
-		background: -webkit-gradient(radial, center center, 0px, center center, 150%, color-stop(0%,rgba(255,255,255,0.56)), color-stop(150%,rgba(127,127,127,1)));
-		background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 150%);
-		background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 150%);
-		background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 150%);
-		background: radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 150%);
+		background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%, rgba(127,127,127,1) 100%);
+		background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,0.56)), color-stop(100%,rgba(127,127,127,1)));
+		background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 100%);
+		background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 100%);
+		background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 100%);
+		background: radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(127,127,127,1) 100%);
 	}
 
 }
